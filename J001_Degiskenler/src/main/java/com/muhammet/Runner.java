@@ -14,7 +14,10 @@ public class Runner {
          * 1.1.1.3. int - 2^32
          * 1.1.1.4. long - 2^64
          * 1.1.2. Ondalık sayılar
-         *
+         * 1.1.2.1. float
+         * 1.1.2.2. double
+         * 1.2. Karakter veri tipleri
+         * 1.2.1. char -
          */
         /**
          * Değişken nasıl tanımlanır?
@@ -47,5 +50,36 @@ public class Runner {
          * default tam sayı değeri - int
          */
         System.out.println(120);
+
+        /**
+         * Ondalıklı sayılar
+         * default data type -> double
+         * int    _____
+         * float  _____.____
+         */
+        float float_sayisi = 125.122554f;
+        double double_sayi = 2131231231231231.123123123123123112;
+
+        int sayi6 = 55443;
+        float fsayi;
+        fsayi = sayi6;
+        System.out.println("float sayi....: "+ fsayi);
+
+        fsayi = 25.8f;
+        sayi6 = (int) fsayi;
+        System.out.println("sayi6...: "+ sayi6);
+
+        /**
+         * KArakter değişkeni
+         * '' tek tırnak ile karater ataması yapılır.
+         */
+        char karakter = 'A';
+        karakter = '?';
+        karakter = '6';
+
+        System.out.println("6 karakteri..: "+karakter);
+        karakter = 98;
+        System.out.println("98 değeri için karater...: "+ karakter);
+        
     }// main sonu
 }// class sonu
