@@ -31,11 +31,11 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/J004_Operatorler" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J004_Karar_Yapilari" />
         <option name="gradleHome" value="" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/J004_Operatorler" />
+            <option value="$PROJECT_DIR$/J004_Karar_Yapilari" />
           </set>
         </option>
       </GradleProjectSettings>
