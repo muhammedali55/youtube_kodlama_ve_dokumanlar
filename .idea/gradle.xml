@@ -30,6 +30,15 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J004_Operatorler" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J004_Operatorler" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
